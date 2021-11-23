@@ -1,0 +1,15 @@
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/SurveyManager
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/SurveyManager.deps.json
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/SurveyManager.runtimeconfig.json
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/SurveyManager.dll
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/ref/SurveyManager.dll
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/bin/Debug/net6.0/SurveyManager.pdb
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.csproj.AssemblyReference.cache
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.AssemblyInfoInputs.cache
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.AssemblyInfo.cs
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.csproj.CoreCompileInputs.cache
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.dll
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/ref/SurveyManager.dll
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.pdb
+/home/mannon/Documents/c#/c#SoftBlue/SurveyManager/obj/Debug/net6.0/SurveyManager.genruntimeconfig.cache
