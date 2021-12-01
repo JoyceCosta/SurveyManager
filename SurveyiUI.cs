@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace SurveyManeger
+namespace SurveyManager
 {
 	/// Manages the application's graphical interface.
 	class SurveyUI
