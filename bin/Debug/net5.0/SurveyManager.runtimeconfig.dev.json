@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/mannon/.dotnet/store/|arch|/|tfm|",
+      "/home/mannon/.nuget/packages"
+    ]
+  }
+}
