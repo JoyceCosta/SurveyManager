@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SurveyManeger
+namespace SurveyManager
 {
 	class Program
 	{
