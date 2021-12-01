@@ -1,6 +1,6 @@
 using System;
 
-namespace SurveyManeger
+namespace SurveyManager
 {
 	/// Votes for an option.
 	class OptionScore : IComparable<OptionScore>
