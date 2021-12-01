@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace SurveyManeger
+namespace SurveyManager
 {
 	
 	/// Option of a survey.
